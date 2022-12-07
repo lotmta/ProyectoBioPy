@@ -1,3 +1,28 @@
+'''
+NAME
+	Articl.py
+    
+VERSION
+    1.0
+    
+AUTHOR
+	Lot Hernandez
+    
+DESCRIPTION
+    Modulo que dado el nombre de una proteina y un tema, busca articulos donde estos 2 se mencionen.
+
+    Regresa los primeros 3 articulos encontrados (titulo, abstract e Id), los Ids de los primeros 20 y el 
+    numero total de articulos encontrados.
+
+CATEGORY
+	Gene Expression
+    
+USAGE
+    from Articl import getArticl
+
+    Articl(tema, protn)
+'''
+
 from Bio import Entrez
 from crearTermino import crearTerm
 
@@ -53,6 +78,6 @@ def getArticl(tema, protn):
 
 
     # Regresamos el vector con la info de los articulos y el vector con los IDs de los demas articulos encontrados
-    return(Articulos, Ids)
+    return(Articulos, Ids, result["Count"])
 
 
