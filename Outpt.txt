@@ -1,0 +1,22 @@
+Proteina:	 Epidermal growth factor receptor 
+Tema:	cancer
+Termino de Busqueda:	( Epidermal growth factor receptor [Title] OR  Epidermal growth factor receptor [All Fields]) AND (cancer[Title] OR cancer[All Fields])
+Articulos Encontrados:	79225
+
+Primeros 3 Articulos Encontrados:
+
+Titulo:	The patent landscape of BRAF Target and KRAS Target.
+Abstract:	KRAS and BRAF targets are involved in the epidermal growth factor receptor pathway. KRAS and BRAF targets are the most frequent driver mutations in cancer.
+Id:	36475349
+
+Titulo:	<sup>18</sup>F-FDG and <sup>18</sup>F-FLT Uptake Profiles for Breast Cancer Cell Lines Treated with Targeted PI3K/Akt/mTOR Therapies.
+Abstract:	<b><i>Background:</i></b> To evaluate <sup>18</sup>F-fluoro-2-deoxy-glucose (<sup>18</sup>F-FDG) and <sup>18</sup>F-fluorothymidine (<sup>18</sup>F-FLT) as early-response biomarkers for phosphoinositide-3-kinase/Akt/mammalian-target-of-rapamycin (PI3K/Akt/mTOR) inhibition in breast cancer (BC) models. <b><i>Materials and Methods:</i></b> Two human epidermal growth factor receptor 2 (HER2)-positive (trastuzumab-sensitive SKBR3; trastuzumab-resistant JIMT1) and one triple-negative BC cell line (MDA-MB-231, trastuzumab, and everolimus resistant) were treated with trastuzumab (HER2 antagonist), PIK90 (PI3K inhibitor), or everolimus (mTOR inhibitor). Radiotracer uptake was measured before, 24, and 72 h after drug exposure and correlated with changes in cell number, glucose transporter 1 (GLUT1), cell cycle phase, and downstream signaling activation. <b><i>Results:</i></b> In responsive cells, cell number correlated with <sup>18</sup>F-FLT at 24 h and <sup>18</sup>F-FDG at 72 h of drug exposure, except in JIMT1 treated with everolimus, where both radiotracers failed to detect response owing to a temporary increase in tracer uptake. This flare can be caused by reflex activation of Akt combined with a hyperactive insulin-like growth factor I receptor (IGF-1R) signaling, resulting in increased trafficking of GLUTs to the cell membrane (<sup>18</sup>F-FDG) and enhanced DNA repair (<sup>18</sup>F-FLT). In resistant cells, no major changes were observed, although a nonsignificant flair for both tracers was observed in JIMT1 treated with trastuzumab. <b><i>Conclusion:</i></b> <sup>18</sup>F-FLT positron emission tomography (PET) detects response to PI3K-targeting therapy earlier than <sup>18</sup>F-FDG PET in BC cells. However, therapy response can be underestimated after trastuzumab and everolimus owing to negative feedback loop and crosstalk between pathways.
+Id:	36472460
+
+Titulo:	The pseudogene DUXAP10 contributes to gefitinib resistance in NSCLC by repressing OAS2 expression.
+Abstract:	Gefitinib, an epidermal growth factor receptor-tyrosine kinase inhibitor (EGFR-TKI),is the currently recommended first-line therapy for advanced EGFR-mutant lung cancer, and understanding the mechanism of resistance is the key to formulating therapeutic strategies for EGFR-TKIs. In this study, we evaluate the expression patterns and potential biological functions of the pseudogene DUXAP10 in gefitinib resistance. We find that pseudogene DUXAP10 expression is significantly upregulated in NSCLC gefitinib-resistant cells and tissues. Gain and loss of function assays reveal that knockdown of DUXAP10 by siRNA reverses gefitinib resistance both <i>in vitro</i> and <i>in vivo</i>. Furthermore, DUXAP10 interacts with the histone methyltransferase enhancer of zeste homolog 2 (EZH2) to repress the expression of 2',5'-oligoadenylate synthetase (OAS2). Overall, our study highlights the pivotal role of DUXAP10 in gefitinib resistance, and the DUXAP10/EZH2/OAS2 axis might be a promising therapeutic target to overcome acquired gefitinib resistance in NSCLC.
+Id:	36471952
+
+Ids de los Primeros 20 Articulos Encontrados:
+36475349	36472460	36471952	36471585	36471440	36471434	36471360	36471329	36471222	36471172	
+36470982	36470425	36470213	36470023	36469080	36469021	36467642	36467102	36467008	36466034	
