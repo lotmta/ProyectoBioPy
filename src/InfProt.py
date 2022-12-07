@@ -3,7 +3,7 @@ NAME
 	InfProt.py
     
 VERSION
-    1.0
+    2.0
     
 AUTHOR
 	Lot, Andres, Aldo	
@@ -24,14 +24,15 @@ USAGE
 '''
 
 import sys
-from Bio import Entrez, SeqIO
 import argparse
 
-sys.path.insert(0, '.\src\modulos')
+sys.path.insert(0, '.\modulos')
 
 from blastSearch import protName
 from Articl import getArticl
 from write import wrFile
+from openFile import openF
+from openFileMultiple import openFMult
 
 parser = argparse.ArgumentParser(
     description="")
@@ -46,30 +47,33 @@ parser.add_argument('-BS', "--BlastSave",
 parser.add_argument("-t", "--topic",
                     help="Introduce el tema en el que quieres ver si tu proteina es relevante, cancer por ejemplo",
                     required=True)
+parser.add_argument('-n', "--nucleotide",
+                    help="Usa este parametro si tu secuencia es de ADN o RNA",
+                    default=False,
+                    action='store_true')
 args = parser.parse_args()
 
-Entrez.email = "lotmateohernandezespinosa@gmail.com"
 
-
- # Se trata de abrir el archivo, si no se encuentra o si el formato esta mal se le avisa al usuario y se termina el programa
 try:
-    prot = SeqIO.read(args.file, "fasta")
+    prot = openF(args.file, args.nucleotide)
+    im = 1
+except:
+    prot = openFMult(args.file, args.nucleotide)
+    im = len(prot)
 
-except FileNotFoundError:
-    print('Error: No se encontró el archivo, asegurate de que hayas escrito correctamente la dirección')
-    quit()
-except ValueError:
-    print('Error de formato: Se encontró tu archivo, pero no se pudo abrir, asegurate de que esté en formato fasta')
-    quit()
+i=0
+while i < im:
 
-# Pasamos el tema elegido a una variable
-tema = args.topic
+    # Pasamos el tema elegido a una variable
+    tema = args.topic
 
-# Usamos la funcion que corre blast para encontrar el nombre (probable) de nuestra proteina
-protN = protName(prot.seq)
+    # Usamos la funcion que corre blast para encontrar el nombre (probable) de nuestra proteina
+    protN = protName(prot.seq, args.BlastSave, i)
 
-# Buscamos los articulos donde este nuestro tema y nuestra proteina
-articulos, Ids, NumArts = getArticl(tema, protN)
+    # Buscamos los articulos donde este nuestro tema y nuestra proteina
+    articulos, Ids, NumArts = getArticl(tema, protN)
 
-# Con todo lo obtenido escribimos el archivo de salida
-wrFile(protN, tema, articulos, Ids, NumArts)
+    # Con todo lo obtenido escribimos el archivo de salida
+    wrFile(protN, tema, articulos, Ids, NumArts, i)
+
+    i+=1
