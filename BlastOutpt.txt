@@ -1,0 +1,452 @@
+Blast Results:
+
+Sequence ID: pdb|7SYD|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  2522.27
+Alignment:
+Alignment with 2 rows and 1210 columns
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...IGA unnamed
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...IGA pdb|7SYD|A
+
+Sequence ID: pdb|7SZ0|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  2518.04
+Alignment:
+Alignment with 2 rows and 1210 columns
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...IGA unnamed
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...IGA pdb|7SZ0|A
+
+Sequence ID: pdb|5XWD|A
+Description: Crystal structure of the complex of 059-152-Fv and EGFR-ECD [Homo sapiens]
+E value: 0.0
+Bit Score:  1349.34
+Alignment:
+Alignment with 2 rows and 645 columns
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...IPS unnamed
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...IGS pdb|5XWD|A
+
+Sequence ID: pdb|3QWQ|A
+Description: Crystal structure of the extracellular domain of the epidermal growth factor receptor in complex with an adnectin [Homo sapiens]
+E value: 0.0
+Bit Score:  1344.72
+Alignment:
+Alignment with 2 rows and 642 columns
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...GPK unnamed
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF...GPK pdb|3QWQ|A
+
+Sequence ID: pdb|7OM4|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  1305.81
+Alignment:
+Alignment with 2 rows and 623 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...SIA unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...SAA pdb|7OM4|A
+
+Sequence ID: pdb|1IVO|A
+Description: Crystal Structure of the Complex of Human Epidermal Growth Factor and Receptor Extracellular Domains. [Homo sapiens]
+E value: 0.0
+Bit Score:  1305.43
+Alignment:
+Alignment with 2 rows and 622 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...PSI unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...PSI pdb|1IVO|A
+
+Sequence ID: pdb|4UV7|A
+Description: The complex structure of extracellular domain of EGFR and GC1118A [Homo sapiens]
+E value: 0.0
+Bit Score:  1303.5
+Alignment:
+Alignment with 2 rows and 621 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...IPS unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...IPS pdb|4UV7|A
+
+Sequence ID: pdb|3B2V|A
+Description: Crystal structure of the extracellular region of the epidermal growth factor receptor in complex with the Fab fragment of IMC-11F8 [Homo sapiens]
+E value: 0.0
+Bit Score:  1297.34
+Alignment:
+Alignment with 2 rows and 618 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK pdb|3B2V|A
+
+Sequence ID: pdb|1NQL|A
+Description: Structure of the extracellular domain of human epidermal growth factor (EGF) receptor in an inactive (low pH) complex with EGF. [Homo sapiens]
+E value: 0.0
+Bit Score:  1295.41
+Alignment:
+Alignment with 2 rows and 618 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK pdb|1NQL|A
+
+Sequence ID: pdb|4KRP|A
+Description: Nanobody/VHH domain 9G8 in complex with the extracellular region of EGFR [Homo sapiens]
+E value: 0.0
+Bit Score:  1292.33
+Alignment:
+Alignment with 2 rows and 619 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK pdb|4KRP|A
+
+Sequence ID: pdb|1YY9|A
+Description: Structure of the extracellular domain of the epidermal growth factor receptor in complex with the Fab fragment of cetuximab/Erbitux/IMC-C225 [Homo sapiens]
+E value: 0.0
+Bit Score:  1291.17
+Alignment:
+Alignment with 2 rows and 618 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...GPK pdb|1YY9|A
+
+Sequence ID: pdb|6ARU|A
+Description: Structure of Cetuximab Fab mutant in complex with EGFR extracellular domain [Homo sapiens]
+E value: 0.0
+Bit Score:  1288.48
+Alignment:
+Alignment with 2 rows and 616 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...TNG unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...TNG pdb|6ARU|A
+
+Sequence ID: pdb|3NJP|A
+Description: The Extracellular and Transmembrane Domain Interfaces in Epidermal Growth Factor Receptor Signaling [Homo sapiens]
+E value: 0.0
+Bit Score:  1288.09
+Alignment:
+Alignment with 2 rows and 614 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CPT unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CPT pdb|3NJP|A
+
+Sequence ID: pdb|4UIP|A
+Description: The complex structure of extracellular domain of EGFR with Repebody (rAC1). [Homo sapiens]
+E value: 0.0
+Bit Score:  1285.4
+Alignment:
+Alignment with 2 rows and 612 columns
+EEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITY...GCP unnamed
+EEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITY...GCP pdb|4UIP|A
+
+Sequence ID: pdb|7MN5|B
+Description: Chain B, Receptor tyrosine-protein kinase erbB-2,Maltose/maltodextrin-binding periplasmic protein [synthetic construct]
+E value: 0.0
+Bit Score:  1145.18
+Alignment:
+Alignment with 2 rows and 1008 columns
+KVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITYVQR...QQG unnamed
+QVCTGTDMKLRLPASPETHLDMLRHLYQGCQVVQGNLELTYLPT...QQG pdb|7MN5|B
+
+Sequence ID: pdb|7MN6|B
+Description: Chain B, Receptor tyrosine-protein kinase erbB-2,Maltose/maltodextrin-binding periplasmic protein [synthetic construct]
+E value: 0.0
+Bit Score:  1142.87
+Alignment:
+Alignment with 2 rows and 1008 columns
+KVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITYVQR...QQG unnamed
+QVCTGTDMKLRLPASPETHLDMLRHLYQGCQVVQGNLELTYLPT...QQG pdb|7MN6|B
+
+Sequence ID: pdb|1MOX|A
+Description: Crystal Structure of Human Epidermal Growth Factor Receptor (residues 1-501) in complex with TGF-alpha [Homo sapiens]
+E value: 0.0
+Bit Score:  1046.96
+Alignment:
+Alignment with 2 rows and 501 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS pdb|1MOX|A
+
+Sequence ID: pdb|5WB7|A
+Description: Crystal structure of the epidermal growth factor receptor extracellular region in complex with epiregulin [Homo sapiens]
+E value: 0.0
+Bit Score:  1046.57
+Alignment:
+Alignment with 2 rows and 501 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS pdb|5WB7|A
+
+Sequence ID: pdb|7LFR|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  1045.8
+Alignment:
+Alignment with 2 rows and 501 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS pdb|7LFR|A
+
+Sequence ID: pdb|7LEN|A
+Description: Chain A, Isoform 4 of Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  1045.8
+Alignment:
+Alignment with 2 rows and 501 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS pdb|7LEN|A
+
+Sequence ID: pdb|7LFS|A
+Description: Chain A, Isoform 4 of Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  1044.26
+Alignment:
+Alignment with 2 rows and 501 columns
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS unnamed
+LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEIT...CVS pdb|7LFS|A
+
+Sequence ID: pdb|7MN5|A
+Description: Chain A, Receptor tyrosine-protein kinase erbB-3 [Homo sapiens]
+E value: 0.0
+Bit Score:  969.148
+Alignment:
+Alignment with 2 rows and 981 columns
+LLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRM...VIQ unnamed
+VLGLLFSLARGSEVGNSQAVCPGTLNGLSVTGDAENQYQTLYKL...VIK pdb|7MN5|A
+
+Sequence ID: pdb|3GOP|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  735.332
+Alignment:
+Alignment with 2 rows and 354 columns
+RRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEF...QQG unnamed
+RRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEF...QQG pdb|3GOP|A
+
+Sequence ID: pdb|5CNN|A
+Description: Crystal structure of the EGFR kinase domain mutant I682Q [Homo sapiens]
+E value: 0.0
+Bit Score:  721.079
+Alignment:
+Alignment with 2 rows and 347 columns
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...ATS unnamed
+GEAPNQALLRQLKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...ATS pdb|5CNN|A
+
+Sequence ID: pdb|5ZWJ|A
+Description: Crystal structure of EGFR 675-1022 T790M/C797S/V948R in complex with EAI045 [Homo sapiens]
+E value: 0.0
+Bit Score:  718.768
+Alignment:
+Alignment with 2 rows and 348 columns
+RKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVL...QQG unnamed
+RKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVL...QQG pdb|5ZWJ|A
+
+Sequence ID: pdb|4RIW|B
+Description: Crystal structure of an EGFR/HER3 kinase domain heterodimer [Homo sapiens]
+E value: 0.0
+Bit Score:  702.59
+Alignment:
+Alignment with 2 rows and 341 columns
+LLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGSGAFGT...QQG unnamed
+LLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGSGAFGT...QQG pdb|4RIW|B
+
+Sequence ID: pdb|7AEM|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  687.182
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|7AEM|A
+
+Sequence ID: pdb|4ZJV|A
+Description: crystal structure of EGFR kinase domain in complex with Mitogen-inducible gene 6 protein [Homo sapiens]
+E value: 0.0
+Bit Score:  686.411
+Alignment:
+Alignment with 2 rows and 330 columns
+TPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG unnamed
+STSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG pdb|4ZJV|A
+
+Sequence ID: pdb|5CAV|A
+Description: EGFR kinase domain with compound 41a [Homo sapiens]
+E value: 0.0
+Bit Score:  686.026
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|5CAV|A
+
+Sequence ID: pdb|4LQM|A
+Description: EGFR L858R in complex with PD168393 [Homo sapiens]
+E value: 0.0
+Bit Score:  686.026
+Alignment:
+Alignment with 2 rows and 330 columns
+TPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG unnamed
+SPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG pdb|4LQM|A
+
+Sequence ID: pdb|1M14|A
+Description: Tyrosine Kinase Domain from Epidermal Growth Factor Receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  686.026
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|1M14|A
+
+Sequence ID: pdb|3IKA|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  686.026
+Alignment:
+Alignment with 2 rows and 330 columns
+TPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG unnamed
+SPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG pdb|3IKA|A
+
+Sequence ID: pdb|4TKS|A
+Description: Native-SAD phasing for human EGFR kinase domain. [Homo sapiens]
+E value: 0.0
+Bit Score:  685.641
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|4TKS|A
+
+Sequence ID: pdb|3VJO|A
+Description: Crystal structure of the wild-type EGFR kinase domain in complex with AMPPNP. [Homo sapiens]
+E value: 0.0
+Bit Score:  685.256
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|3VJO|A
+
+Sequence ID: pdb|7UKV|A
+Description: Chain A, Epidermal growth factor receptor [Homo sapiens]
+E value: 0.0
+Bit Score:  685.256
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|7UKV|A
+
+Sequence ID: pdb|4I23|A
+Description: Crystal structure of the wild-type EGFR kinase domain in complex with dacomitinib (soaked) [Homo sapiens]
+E value: 0.0
+Bit Score:  684.871
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|4I23|A
+
+Sequence ID: pdb|1XKK|A
+Description: EGFR kinase domain complexed with a quinazoline inhibitor- GW572016 [Homo sapiens]
+E value: 0.0
+Bit Score:  684.871
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|1XKK|A
+
+Sequence ID: pdb|4LL0|A
+Description: EGFR L858R/T790M in complex with PD168393 [Homo sapiens]
+E value: 0.0
+Bit Score:  684.1
+Alignment:
+Alignment with 2 rows and 330 columns
+TPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG unnamed
+SPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG pdb|4LL0|A
+
+Sequence ID: pdb|5Y9T|A
+Description: Crystal Structure of EGFR T790M mutant in complex with naquotinib [Homo sapiens]
+E value: 0.0
+Bit Score:  683.715
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|5Y9T|A
+
+Sequence ID: pdb|2EB2|A
+Description: Crystal structure of mutated EGFR kinase domain (G719S) [Homo sapiens]
+E value: 0.0
+Bit Score:  683.715
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLSSGAFGTVYKGLWIPEGEKV...QQG pdb|2EB2|A
+
+Sequence ID: pdb|2ITW|A
+Description: Crystal structure of EGFR kinase domain in complex with AFN941 [Homo sapiens]
+E value: 0.0
+Bit Score:  683.715
+Alignment:
+Alignment with 2 rows and 327 columns
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG unnamed
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG pdb|2ITW|A
+
+Sequence ID: pdb|4G5J|A
+Description: Crystal structure of EGFR kinase in complex with BIBW2992 [Homo sapiens]
+E value: 0.0
+Bit Score:  683.715
+Alignment:
+Alignment with 2 rows and 327 columns
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG unnamed
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG pdb|4G5J|A
+
+Sequence ID: pdb|2GS2|A
+Description: Crystal Structure of the active EGFR kinase domain [Homo sapiens]
+E value: 0.0
+Bit Score:  683.715
+Alignment:
+Alignment with 2 rows and 327 columns
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG unnamed
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG pdb|2GS2|A
+
+Sequence ID: pdb|5FED|A
+Description: EGFR kinase domain in complex with a covalent aminobenzimidazole inhibitor. [Homo sapiens]
+E value: 0.0
+Bit Score:  683.33
+Alignment:
+Alignment with 2 rows and 327 columns
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG unnamed
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG pdb|5FED|A
+
+Sequence ID: pdb|5XDL|A
+Description: Crystal structure of EGFR 696-1022 L858R in complex with CO-1686 [Homo sapiens]
+E value: 0.0
+Bit Score:  683.33
+Alignment:
+Alignment with 2 rows and 330 columns
+TPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG unnamed
+STSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG pdb|5XDL|A
+
+Sequence ID: pdb|2JIU|A
+Description: Crystal structure of EGFR kinase domain T790M mutation in complex with AEE788 [Homo sapiens]
+E value: 0.0
+Bit Score:  683.33
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|2JIU|A
+
+Sequence ID: pdb|4I24|A
+Description: Structure of T790M EGFR kinase domain co-crystallized with dacomitinib [Homo sapiens]
+E value: 0.0
+Bit Score:  682.945
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|4I24|A
+
+Sequence ID: pdb|2EB3|A
+Description: Crystal structure of mutated EGFR kinase domain (L858R) in complex with AMPPNP [Homo sapiens]
+E value: 0.0
+Bit Score:  682.945
+Alignment:
+Alignment with 2 rows and 328 columns
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG unnamed
+SGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKV...QQG pdb|2EB3|A
+
+Sequence ID: pdb|4LRM|A
+Description: EGFR D770_N771insNPG in complex with PD168393 [Homo sapiens]
+E value: 0.0
+Bit Score:  682.174
+Alignment:
+Alignment with 2 rows and 333 columns
+TPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG unnamed
+SPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGE...QQG pdb|4LRM|A
+
+Sequence ID: pdb|4G5P|A
+Description: Crystal structure of EGFR kinase T790M in complex with BIBW2992 [Homo sapiens]
+E value: 0.0
+Bit Score:  681.789
+Alignment:
+Alignment with 2 rows and 327 columns
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG unnamed
+GEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVK...QQG pdb|4G5P|A
+
