@@ -1,3 +1,25 @@
+'''
+NAME
+	blastSearch.py
+    
+VERSION
+    1.0
+    
+AUTHOR
+	Aldo Garcia	
+    
+DESCRIPTION
+    Modulo que corre blastp dada una secuencia proteica. Regresa el nombre de la proteina con el mejor alineamiento
+
+CATEGORY
+	Gene Expression
+    
+USAGE
+    from blastSearch import protName
+
+    protName(protSeq)
+'''
+
 from Bio import SearchIO
 from Bio.Blast import NCBIWWW
 
