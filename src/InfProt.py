@@ -27,7 +27,7 @@ import sys
 from Bio import Entrez, SeqIO
 import argparse
 
-sys.path.insert(0, '.\modulos')
+sys.path.insert(0, '.\src\modulos')
 
 from blastSearch import protName
 from Articl import getArticl
@@ -66,7 +66,6 @@ except ValueError:
 tema = args.topic
 
 # Usamos la funcion que corre blast para encontrar el nombre (probable) de nuestra proteina
-print('Corriendo Blastp...')
 protN = protName(prot.seq)
 
 # Buscamos los articulos donde este nuestro tema y nuestra proteina

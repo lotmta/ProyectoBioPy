@@ -26,6 +26,7 @@ from Bio.Blast import NCBIWWW
 def protName(protSeq):
 
     # Corremos blastp, usando la base de datos pdb y pidiendo solo el mejor hit
+    print('Corriendo Blastp...')
     result = NCBIWWW.qblast("blastp", "pdb", protSeq, hitlist_size=1)
     
     # Parseamos el resultado para poder trabajar con el
