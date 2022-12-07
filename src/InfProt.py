@@ -26,7 +26,7 @@ USAGE
 import sys
 import argparse
 
-sys.path.insert(0, '.\modulos')
+sys.path.insert(0, '.\src\modulos')
 
 from blastSearch import protName
 from Articl import getArticl
