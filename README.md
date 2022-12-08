@@ -22,11 +22,11 @@ write.py:Modulo que escribe un archivo con los datos dados por los demas modulos
 El desarrollo de la herramienta fue éxitoso, a continuación se muestra el formato en que se imprime el resultado de las búsquedas. 
 ![Captura de pantalla (20)](https://user-images.githubusercontent.com/100377560/206542304-b8fbd92d-dda1-439b-9b2b-1487fdeaee36.png)
 
-Además, en el repositorio se encuentran dos archvivos output de InfProt, uno que contiene el resultado de blastp llamado "BlastOutpt.txt" y otro con los artículos encontrados por la búsqueda en NCBI llamado "Outpt.txt"
+Además, en el repositorio se encuentran dos archvivos output de InfProt, uno que contiene el resultado de blastp llamado "BlastOutpt.txt" y otro con los artículos encontrados por la búsqueda en NCBI llamado "Outpt.txt". En el archivo "Output.txt" se muestra el nombre de la proteína identificada, el tema de interés requerido, el número de arículos encontrados que establecen una relación entre ambos, el título de los primeros tres encontrados y los Ids de los siguientes veinte.  
 
 ## Conclusiones 
 
-InfProt permite, dados los resultados de una extracción de proteoma o RNA-seq, obtener información publicada en la literatura de NCBI que asocie la proteína caracterizada y algún tema de interes, como puede ser una enfermedad. Esto resulta útil para realizar hipótesis sobre el fenotipo de células que se encuentren sobreexpresando una proteína a priori desconocida.  
+InfProt permite, dados los resultados de una extracción de proteoma o RNA-seq, obtener información publicada en la literatura de NCBI que asocie la proteína caracterizada y algún tema de interes, como puede ser una enfermedad. Esto resulta útil para realizar hipótesis sobre el fenotipo de células que se encuentren sobreexpresando una proteína a priori desconocida. 
 
 
 
