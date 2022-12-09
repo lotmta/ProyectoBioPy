@@ -1,0 +1,74 @@
+Blast Results:
+
+Sequence ID: pdb|7OQZ|A
+Description: Chain A, Transmembrane protein 45A [Homo sapiens]
+E value: 0.0
+Bit Score:  574.704
+Alignment:
+Alignment with 2 rows and 281 columns
+MNFRGHALPGTFFFIIGLWWCTKSILKYICKKQKRTCYLGSKTL...YFQ unnamed
+MNFRGHALPGTFFFIIGLWWCTKSILKYICKKQKRTCYLGSKTL...YFQ pdb|7OQZ|A
+
+Sequence ID: pdb|6MF2|A
+Description: Improved Model of Human Coagulation Factor VIII [Homo sapiens]
+E value: 0.0717277
+Bit Score:  36.1946
+Alignment:
+Alignment with 2 rows and 68 columns
+ENILFLTICFCWHYAVTIVIVGMNYAFI--TWLVKSRLKRLCSS...EEM unnamed
+DTILSLNACESNH-AIAAINEGQNKPEIEVTWAKQGRTERLCSQ...EEI pdb|6MF2|A
+
+Sequence ID: pdb|2R7E|B
+Description: Chain B, Coagulation factor VIII [Homo sapiens]
+E value: 0.0755576
+Bit Score:  35.8094
+Alignment:
+Alignment with 2 rows and 68 columns
+ENILFLTICFCWHYAVTIVIVGMNYAFI--TWLVKSRLKRLCSS...EEM unnamed
+DTILSLNACESNH-AIAAINEGQNKPEIEVTWAKQGRTERLCSQ...EEI pdb|2R7E|B
+
+Sequence ID: pdb|4RWO|A
+Description: Crystal structure of the porcine OAS1 L149R mutant in complex with dsRNA and ApCpp in the AMP donor position [Sus scrofa]
+E value: 0.547276
+Bit Score:  33.113
+Alignment:
+Alignment with 2 rows and 93 columns
+CFTISSLPVSLTKLMLSNALFVEAFIFYNHTHGREMLDIFVHQL...YPP unnamed
+CFQGTADPVRVSKVVKGGSSGKGTTL-----RGRSDAD------...QSP pdb|4RWO|A
+
+Sequence ID: pdb|4RWN|A
+Description: Crystal structure of the pre-reactive state of porcine OAS1 [Sus scrofa]
+E value: 0.598085
+Bit Score:  32.7278
+Alignment:
+Alignment with 2 rows and 93 columns
+CFTISSLPVSLTKLMLSNALFVEAFIFYNHTHGREMLDIFVHQL...YPP unnamed
+CFQGTADPVRVSKVVKGGSSGKGTTL-----RGRSDAD------...QSP pdb|4RWN|A
+
+Sequence ID: pdb|1PX5|A
+Description: Crystal structure of the 2'-specific and double-stranded RNA-activated interferon-induced antiviral protein 2'-5'-oligoadenylate synthetase [Sus scrofa]
+E value: 0.689418
+Bit Score:  32.7278
+Alignment:
+Alignment with 2 rows and 93 columns
+CFTISSLPVSLTKLMLSNALFVEAFIFYNHTHGREMLDIFVHQL...YPP unnamed
+CFQGTADPVRVSKVVKGGSSGKGTTL-----RGRSDAD------...QSP pdb|1PX5|A
+
+Sequence ID: pdb|4IG8|A
+Description: Structural basis for cytosolic double-stranded RNA surveillance by human OAS1 [Homo sapiens]
+E value: 0.760162
+Bit Score:  32.7278
+Alignment:
+Alignment with 2 rows and 96 columns
+CFTISSLPVSLTKLMLSNALFVEAFIFYNHTHGREMLDIFVHQL...SGG unnamed
+CFRGSSYPVCVSKVVKGGSSGKGTTL-----RGRSDAD------...RWG pdb|4IG8|A
+
+Sequence ID: pdb|5DMB|A
+Description: Crystal structure of a translational regulator bound to a flagellar assembly factor [Geobacillus thermodenitrificans]
+E value: 7.20528
+Bit Score:  28.8758
+Alignment:
+Alignment with 2 rows and 72 columns
+DIFVHQLLVLVVFLTGLVAFLEFLVRNNVLLELLRSSLILLQGS...NIL unnamed
+DIEIHEKDI-VRFEQGIPGFLE--EKQFVLLQLEDTPFIILQSV...NTL pdb|5DMB|A
+

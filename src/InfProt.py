@@ -54,21 +54,21 @@ parser.add_argument('-n', "--nucleotide",
 args = parser.parse_args()
 
 
-try:
-    prot = openF(args.file, args.nucleotide)
-    im = 1
-except:
-    prot = openFMult(args.file, args.nucleotide)
-    im = len(prot)
+
+prots = openFMult(args.file, args.nucleotide)
+im = len(prots)
+
 
 i=0
 while i < im:
+
+    prot = prots[i]
 
     # Pasamos el tema elegido a una variable
     tema = args.topic
 
     # Usamos la funcion que corre blast para encontrar el nombre (probable) de nuestra proteina
-    protN = protName(prot.seq, args.BlastSave, i)
+    protN = protName(prot, args.BlastSave, i)
 
     # Buscamos los articulos donde este nuestro tema y nuestra proteina
     articulos, Ids, NumArts = getArticl(tema, protN)
